@@ -16,7 +16,9 @@ ini_set('display_errors', 1);
 	<h1>Germ&#225;n's xkcd password</h1>
 
 <h3>Welcome to Germ&#225;n's xkcd password program!
-This program was created as an inspiration of <a href="https://xkcd.com/936/">xkcd style password generator</a> </h3>
+This program was created as an inspiration of <a href="https://xkcd.com/936/">xkcd style password generator</a> 
+The purpose of the xkcd password is is to be able to create a password by using a combination of words
+(Ex: car cat mice airplane) that are easy to remember.  </h3>
 <!-- This form reviews the variables assiggned by logic.php, executes arrays
  functions and displays a message to the user-->	
 <form  method='POST' action='index.php'>
